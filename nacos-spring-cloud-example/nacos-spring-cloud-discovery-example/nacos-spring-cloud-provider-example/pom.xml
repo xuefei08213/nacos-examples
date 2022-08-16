@@ -11,6 +11,9 @@
 
     <artifactId>nacos-spring-cloud-provider-example</artifactId>
 
+
+
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
